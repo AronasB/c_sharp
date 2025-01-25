@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.exe.config
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.pdb
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.pdb
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.exe.config
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.exe
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\bin\Debug\U2Malūnas10.pdb
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.exe
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U2Malūnas\U2Malūnas10\obj\Debug\U2Malūnas10.pdb
