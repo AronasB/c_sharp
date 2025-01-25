@@ -1,0 +1,4 @@
+A4; 0; 0; 0; ne; susegimas;
+A4; 0; 0; 0; taip; skylių išmušimas;
+A3; 0; 0; 0; ne; skylių išmušimas;
+A2; 0; 0; 0; ne; skylių išmušimas;

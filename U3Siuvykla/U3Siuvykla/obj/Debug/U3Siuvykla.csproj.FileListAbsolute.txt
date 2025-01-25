@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\bin\Debug\U3Siuvykla.exe.config
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\bin\Debug\U3Siuvykla.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\bin\Debug\U3Siuvykla.pdb
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\obj\Debug\U3Siuvykla.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\obj\Debug\U3Siuvykla.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\obj\Debug\U3Siuvykla.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U3Siuvykla\U3Siuvykla\obj\Debug\U3Siuvykla.pdb

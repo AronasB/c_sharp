@@ -1,0 +1,14 @@
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.exe.config
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.pdb
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.pdb
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.exe.config
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.exe
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\bin\Debug\U5Skaitmenys.pdb
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.csproj.AssemblyReference.cache
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.csproj.CoreCompileInputs.cache
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.exe
+C:\Users\arobut\Desktop\U5Skaitmenys\U5Skaitmenys\obj\Debug\U5Skaitmenys.pdb

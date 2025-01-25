@@ -1,0 +1,4 @@
+Siūk pasiūk
+Adididas; Medvilnė; 2.4; 1.2; 10.2;
+Nyke; Medvilnėe; 4.0; 1.6; 14.2;
+Poma; Medvilnee; 3.1; 2.9; 8.4;

@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\bin\Debug\U6Leidiniai.exe.config
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\bin\Debug\U6Leidiniai.exe
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\bin\Debug\U6Leidiniai.pdb
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\obj\Debug\U6Leidiniai.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\obj\Debug\U6Leidiniai.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\obj\Debug\U6Leidiniai.exe
+C:\Users\pc\OneDrive\Documents\C#\Labaratoriniai\U6Leidiniai\U6Leidiniai\obj\Debug\U6Leidiniai.pdb

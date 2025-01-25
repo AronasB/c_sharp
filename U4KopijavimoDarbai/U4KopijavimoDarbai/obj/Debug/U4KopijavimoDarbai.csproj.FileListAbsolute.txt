@@ -1,0 +1,7 @@
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\bin\Debug\U4KopijavimoDarbai.exe.config
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\bin\Debug\U4KopijavimoDarbai.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\bin\Debug\U4KopijavimoDarbai.pdb
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\obj\Debug\U4KopijavimoDarbai.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\obj\Debug\U4KopijavimoDarbai.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\obj\Debug\U4KopijavimoDarbai.exe
+C:\Users\pc\Documents\C#\Labaratoriniai\U4KopijavimoDarbai\U4KopijavimoDarbai\obj\Debug\U4KopijavimoDarbai.pdb
