@@ -1,0 +1,16 @@
+﻿gamintojas,modelis,energijos klasė,spalva,kaina,talpa,montavimo tipas,turi šaldiklį,aukštis,plotis,gylis
+Electrolux,EN3853AOX,A++,Sidabrine,1050.21,360,Laisvai statomas,True,195,56,65
+Samsung,SMX200,A++,Sidabrine,1100,300,Laisvai statomas,True,190,56,65
+
+gamintojas,modelis,energijos klasė,spalva,kaina,galingumas,programų skaičius
+Smeg,MOE34,A+,Sidabrine,580,1000,15
+Beko,MGF23210X,A,Juoda,570.99,900,11
+Samsung,MS23F301,B,Sidabrine,650.22,850,7
+
+gamintojas,modelis,energijos klasė,spalva,kaina,galia,tūris
+Russell Hobbs,21600-10,A+,Raudona,70.2,2400,1.7
+Kenwood,ZJG801CL,A+,Skaidri,55.4,2400,1.7
+Bosch,TWK7603,A+,Juoda,60.33,2200,1.5
+Tefal,KO3308,A+,Melyna,65.34,2200,1.8
+Delonghi,KBOV2001.BG,A+,Smeline,75.33,2000,1.7
+

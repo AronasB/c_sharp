@@ -1,0 +1,48 @@
+Įvesti studentų duomenys:
+
+Tema                                Pavardė      Vardas     Grupė 
+
+Mokslinių tyrimų metodologija       Žurvaitė     Rita       AC-1/2
+Dirbtinis intelektas medicinoje     Jonaitis     Jonas      IFA-1/1
+
+Įvesti dėstytojų duomenys:
+
+Pavardė      Vardas      Temos ir val. skaičius                                                          
+
+ Butkus       Mantas     Aplinkos apsaugos technologijos        45 
+ Kazlauskaitė Emilija    Biomedicinos inžinerija                50 
+ Petrauskas   Tomas      Elektros inžinerija: pagrindai         40 
+ Stankevičius Justinas   Internet of Things (IoT)               60 
+ Petrauskas   Tomas      Dirbtinio intelekto raida              80 
+ Žukauskas    Gintaras   Programavimo kalbos: Python            55 
+ Petraitė     Evelina    Mokslinių tyrimų metodologija          35 
+ Jonaitis     Andrius    Inovacijų valdymas versle              45 
+ Kazlauskaitė Emilija    Inžinerinė biologija                   40 
+ Petrauskas   Tomas      Dirbtinis intelektas medicinoje        50 
+ Butkus       Mantas     Aplinkos apsaugos svarba               51 
+ Butkus       Mantas     Darnus vystimasis                      60 
+
+Surikiuotas dėstytojų sąrašas
+
+Pavardė      Vardas    
+
+ Butkus       Mantas     
+ Jonaitis     Andrius    
+ Kazlauskaitė Emilija    
+ Petraitė     Evelina    
+ Petrauskas   Tomas      
+ Stankevičius Justinas   
+ Žukauskas    Gintaras   
+
+Sąrašas dėstytojų, kurių siūlomos temos buvo pasirinktos studentų
+
+Pavardė      Vardas    
+
+ Petraitė     Evelina    
+ Petrauskas   Tomas      
+
+Daugiausiai projektinių darbų:
+3
+ Petrauskas   Tomas      
+Temų sąrašas:
+Nerasta

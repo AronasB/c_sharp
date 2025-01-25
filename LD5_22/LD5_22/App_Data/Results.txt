@@ -1,0 +1,29 @@
+﻿Pradiniai duomenys prenumeratorių: 
+Jonaitis         Kauno g. 10           3  6 L123       2
+Petrauskas       Vilniaus g. 5         4 12 L456       1
+Kazlauskas       Klaipėdos g. 8        7  3 L789       3
+Simanavičius     Panevėžio g. 15       2  9 L123       1
+Urbonas          Alytaus g. 20         5  8 L456       2
+Vasiliauskas     Šiaulių g. 25         9  4 L789       2
+Mikalauskaitė    Marijampolės g. 30    1  7 L123       3
+Gudaitis         Tauragės g. 35        6 10 L456       1
+Žukauskas        Utenos g. 40         10  1 L789       3
+Simanavičius     Panevėžio g. 15      10  5 L789       3
+
+Pradiniai duomenys leidinių: 
+L123   Spaudos naujienos          5
+L456   Laisvalaikio žurnalas    6.5
+L766   Mados pasaulyje Kitaip   4.8
+L789   Mados pasaulyje          4.2
+
+Prenumeratuoriams reikia sumokėti: 
+Jonaitis 60
+Petrauskas 78
+Kazlauskas 37.8
+Simanavičius 108
+Urbonas 104
+Vasiliauskas 33.6
+Mikalauskaitė 105
+Gudaitis 65
+Žukauskas 12.6
+

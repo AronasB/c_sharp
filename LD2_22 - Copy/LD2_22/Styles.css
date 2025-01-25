@@ -1,0 +1,78 @@
+﻿body {
+    font-family: cursive;
+    background-color: lightslategrey;
+}
+#Label1, #Label2 {
+    display: block;
+    align-self: center;
+    font-size: 20px;
+    font: bold;
+    color: floralwhite;
+}
+.container {
+    text-align: center;
+}
+#ListBox1, #ListBox2, #ListBox4, #ListBox5, #ListBox6, #ListBox7 {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: floralwhite;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#ListBox1::-webkit-scrollbar, #ListBox2::-webkit-scrollbar,
+#ListBox3::-webkit-scrollbar, #ListBox4::-webkit-scrollbar,
+#ListBox5::-webkit-scrollbar, #ListBox6::-webkit-scrollbar,
+#ListBox7::-webkit-scrollbar {
+    width: 8px;
+}
+#ListBox1::-webkit-scrollbar-thumb, #ListBox2::-webkit-scrollbar-thumb,
+#ListBox3::-webkit-scrollbar-thumb, #ListBox4::-webkit-scrollbar-thumb,
+#ListBox5::-webkit-scrollbar-thumb, #ListBox6::-webkit-scrollbar-thumb,
+#ListBox7::-webkit-scrollbar-thumb {
+    background-color: steelblue;
+    border-radius: 4px;
+}
+#ListBox1::-webkit-scrollbar-thumb:hover,
+#ListBox2::-webkit-scrollbar-thumb:hover,
+#ListBox3::-webkit-scrollbar-thumb:hover,
+#ListBox4::-webkit-scrollbar-thumb:hover,
+#ListBox5::-webkit-scrollbar-thumb:hover,
+#ListBox6::-webkit-scrollbar-thumb:hover,
+#ListBox7::-webkit-scrollbar-thumb:hover {
+    background-color: black;
+}
+#Label3, #Label4, #Label5, #Label6, #Label7, #Label8, #Label9 {
+    color: ghostwhite;
+    margin: 40px;
+}
+#Label3 {
+    padding-right: 100px;
+}
+#Label4 {
+    padding-left: 40px;
+}
+#TextBox1, #TextBox2 {
+    padding: 10px;
+    margin: 20px auto;
+    background-color: floralwhite;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+#Button1 {
+    background-color: dodgerblue;
+    font-family: cursive;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+#Button1:hover {
+    background-color: royalblue;
+}

@@ -1,0 +1,4 @@
+L123, Spaudos naujienos, 5.00
+L456, Laisvalaikio žurnalas, 6.50
+L766, Mados pasaulyje Kitaip, 4.80
+L789, Mados pasaulyje, 4.20

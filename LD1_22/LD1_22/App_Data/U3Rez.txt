@@ -1,0 +1,25 @@
+Pradiniai duomenys:
+5 8
+Preivai
+Saukai
+Salai
+Rekai
+Balkai
+
+Preivai    Balkai
+
+Preivai    Saukai     1
+Preivai    Salai      1
+Preivai    Balkai     1
+Saukai     Balkai     1
+Saukai     Rekai      1
+Salai      Rekai      1
+Salai      Balkai     1
+Rekai      Balkai     1
+
+Rezultatai:
+Minimalus atstumas tarp vietovių
+Preivai    ir Balkai     1 km
+Trasa eina per vietoves:
+Preivai
+Balkai

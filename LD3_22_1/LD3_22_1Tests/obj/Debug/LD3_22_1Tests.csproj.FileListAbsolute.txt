@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\LD3_22_1Tests.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\LD3_22_1Tests.pdb
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\LD3_22_1.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\LD3_22_1.pdb
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\bin\Debug\LD3_22_1.dll.config
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\obj\Debug\LD3_22_1Tests.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\obj\Debug\LD3_22_1Tests.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\obj\Debug\LD3_22_1Tests.csproj.CopyComplete
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\obj\Debug\LD3_22_1Tests.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22_1\LD3_22_1Tests\obj\Debug\LD3_22_1Tests.pdb

@@ -1,0 +1,13 @@
+4 5
+Preivai
+Saukai
+Salai
+Rekai
+
+Saukai Salai
+
+Preivai Saukai 1
+Preivai Salai 4
+Saukai Salai 7
+Saukai Rekai 2
+Salai Rekai 3

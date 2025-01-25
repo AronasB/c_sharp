@@ -1,0 +1,14 @@
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\LD2_22Tests.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\LD2_22Tests.pdb
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\LD2_22.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\LD2_22.pdb
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\bin\Debug\LD2_22.dll.config
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\obj\Debug\LD2_22Tests.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\obj\Debug\LD2_22Tests.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\obj\Debug\LD2_22Tests.csproj.CopyComplete
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\obj\Debug\LD2_22Tests.dll
+C:\Users\pc\OneDrive\Documents\C# 2 semestras\LD3_22\LD2_22Tests\obj\Debug\LD2_22Tests.pdb
